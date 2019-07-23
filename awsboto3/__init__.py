@@ -1,0 +1,4 @@
+from awsboto3.create_ebs_snapshot import createSnapshot
+from awsboto3.create_instance import createInstance
+from awsboto3.delete_instances import deleteInstance
+from awsboto3.list_instances import getInstances
